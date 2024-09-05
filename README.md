@@ -1,4 +1,4 @@
-#Proyecto clima
+# Proyecto clima
 
 *Se inicia el proyecto con vite*
 
